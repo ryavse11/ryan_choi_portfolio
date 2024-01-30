@@ -1,5 +1,6 @@
 /*NO DEPENDENCIES*/
 
+
 WITH var AS
     (SELECT DATEADD(MONTH, 0, sysdate)      AS run date, -- specify X depending how far we want to go back, X can be set as 0 as defaul
             DATEADD(MONTH, -2, run_date)    AS lfp_end_date,
