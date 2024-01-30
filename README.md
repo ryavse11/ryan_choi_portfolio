@@ -1,7 +1,5 @@
 <!-- Title -->
-<h1 align="center">DATA ANALYTICS POTFOLIO
-  
-  </h2></h1>
+<h1 align="center">DATA ANALYTICS POTFOLIO</h1>
   
 Welcome to my Data Analyst Portfolio!
 
