@@ -25,6 +25,7 @@ I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our 
 Data query criteria: biz_unit = ‘CS’, area = ‘ASEAN’ , and only “Completed Follow-Up” MQLs are included.
 
 Data overview:
-![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/87cb645a-6bfa-498b-93a0-db1b498c05df)
+
+[image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/87cb645a-6bfa-498b-93a0-db1b498c05df)
 
 
