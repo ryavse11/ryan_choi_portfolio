@@ -16,7 +16,7 @@ I trained the ML model on the CS ASEAN data. Starting with around 73k MQLs havin
 1.	Improve the MQL quality shared between marketing and sales organization, by enabling transparent scoring logic and filtering invalid/missing information, further reducing the volume of disqualified MQLs and withdrawn MQLs.
 2.	Provide complete history of lead engagement with AWS, allowing sellers to have insightful conversations.
 3.	The overall MQL-SQO conversion metrics were improved and grade buckets A and B of the ML based model are able to capture more leads that experience MQL-SQO conversions than the equivalent grade buckets of traditional rule based scoring.
-	![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/ac51dee3-61e1-4364-88ea-4f2ed75e3db0)
+	< align="center">![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/ac51dee3-61e1-4364-88ea-4f2ed75e3db0)
 
    ![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/048a4037-1179-4be3-9e86-18ba2549fc16)
 
