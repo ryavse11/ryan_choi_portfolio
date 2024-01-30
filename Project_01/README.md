@@ -22,7 +22,7 @@ I trained the ML model on the CS ASEAN data. Starting with around 73k MQLs havin
 
 I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our input data, and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO) performance. This model was used to build the CS AMER, CS EMEA and PS AMER models that are currently in production. The following sub sections describe the characteristics of our data.
 
-Data query criteria: biz_unit = ‘CS’, area = ‘ASEAN’ , and only “Completed Follow-Up” MQLs are included.
+**Data query criteria:** biz_unit = ‘CS’, area = ‘ASEAN’ , and only “Completed Follow-Up” MQLs are included.
 
 **Data overview:**
 
