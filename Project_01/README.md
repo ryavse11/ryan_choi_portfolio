@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="left">ML MAL Prio Project </h1>
+<h1 align="left">Machine Learning Based Lead Prioritization </h1>
 
 
 <h2 align="left">Summary </h2>
