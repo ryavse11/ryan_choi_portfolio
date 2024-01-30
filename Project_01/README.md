@@ -2,6 +2,7 @@
 <h1 align="left">ML MAL Prio Project </h1>
 
 
+<h2 align="left">Summary </h2>
 business impact
 1.	Improve the MQL quality shared between marketing and sales organization, by enabling transparent scoring logic and filtering invalid/missing information, further reducing the volume of disqualified MQLs and withdrawn MQLs.
 2.	Provide complete history of lead engagement with AWS, allowing sellers to have insightful conversations.
