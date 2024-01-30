@@ -1,4 +1,9 @@
-DATA ANALYTICS POTFOLIO
+<!-- Title -->
+<h1 align="center">DATA ANALYTICS POTFOLIO
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+       width="30px">
+  </h2></h1>
+  
 Welcome to my Data Analyst Portfolio!
 
 I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
