@@ -1,7 +1,6 @@
 <!-- Title -->
 <h1 align="center">DATA ANALYTICS POTFOLIO
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
+  
   </h2></h1>
   
 Welcome to my Data Analyst Portfolio!
