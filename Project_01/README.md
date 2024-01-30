@@ -25,15 +25,6 @@ I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our 
 Data query criteria: biz_unit = ‘CS’, area = ‘ASEAN’ , and only “Completed Follow-Up” MQLs are included.
 
 Data overview:
-	Training	Test	Total
-Size	51,008	22,145	73,153
-Minimum Date (m/d/yyyy)	1/9/2021	7/8/2022	
-Maximum Date (m/d/yyyy)	7/7/2022	1/7/2023	
-Duration	18 Months	6 Months	
-	Test
-MQL-SQL Conversion Rate	15.9%
-MQL-SQO Conversion Rate	11.1%
-MQL-SWO Conversion Rate	5.4%
-Model Feature Set: Appendix B
-![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/0af19ad3-afde-4ea8-928f-8cd49b83ffa9)
+![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/87cb645a-6bfa-498b-93a0-db1b498c05df)
+
 
