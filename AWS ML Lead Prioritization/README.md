@@ -4,7 +4,7 @@
 
 <h2 align="left">Summary </h2>
 
-All leads are not equal in terms of quality and priority. Traditionally, it has been based on the likelihood of an opportunity being created by the associated individual, where the likelihood is measured using a lead score. The project aims to measure the impact of applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into a sales qualified opportunity (SQO). 
+All leads are not equal in terms of quality and priority. Traditionally, it has been based on the likelihood of an opportunity being created by the associated individual, where the likelihood is measured using a lead score. The project aims to measure the impact of applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into a sales qualified opportunity (SQO). To work on the project, five different scoring model feature sets were used to analyze the results.  
 
 <h2 align="left">Approach </h2>
 
