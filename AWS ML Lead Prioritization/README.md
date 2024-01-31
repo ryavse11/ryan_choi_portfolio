@@ -8,7 +8,7 @@ All leads are not equal in terms of quality and priority. Traditionally, it has 
 
 <h2 align="left">Approach </h2>
 
-I trained the ML model on <a href="https://www.youtube.com/watch?v=CVP1CwEBz_Y&list=PLpCEczNkqSWmcp5lE8P5zCtTZJdx6iZTo&index=38">the CS(Commercial Sector) ASEAN data set </a> that I pulled from the Jarvis database cluster in AWS. Starting with around 73k MQLs having ‘completed followed up’, I split them into 2 data sets - training and test - based on a date split. The model then trains on the training set before being applied on the test set. The outcome of the latter step produces a numeric value which we call the ML-score. This ML-score is used to rank MQLs from high to low priority. For example, if MQL A has an ML-score of 0.7, and MQL B has an ML-score of 0.4, MQL A will be prioritized over MQL B.
+I trained the ML model on <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_Traning_Dataset_01.sql">the CS(Commercial Sector) ASEAN data set </a> that I pulled from the Jarvis database cluster in AWS. Starting with around 73k MQLs having ‘completed followed up’, I split them into 2 data sets - training and test - based on a date split. The model then trains on the training set before being applied on the test set. The outcome of the latter step produces a numeric value which we call the ML-score. This ML-score is used to rank MQLs from high to low priority. For example, if MQL A has an ML-score of 0.7, and MQL B has an ML-score of 0.4, MQL A will be prioritized over MQL B.
 
 
 <h2 align="left">Business Impact </h2>
