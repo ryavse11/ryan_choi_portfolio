@@ -15,7 +15,7 @@ SQL, A/B Testing, Data Cleaning, Data Analysis, Descriptive Statistics, Hypothes
 
 <h2 align="left">Business Impact </h2>
 
-1.	Improve the MQL quality shared between marketing and sales organization, by enabling transparent scoring logic and filtering invalid/missing information, further reducing the volume of disqualified MQLs and withdrawn MQLs.
+1.	Improved the MQL quality (measured by Sale Qualified Opportunities (SQO) conversion rate) shared between marketing and sales organization, by enabling transparent scoring logic and filtering invalid/missing information, further reducing the volume of disqualified MQLs and withdrawn MQLs.
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/c2666ab9-44f0-4338-b7bc-052b6d277f5d)
 
