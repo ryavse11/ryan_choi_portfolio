@@ -6,6 +6,9 @@
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/c18216b2-80df-4043-884c-cc18e9fd683a)
 
+![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/ca17476f-ce89-4e69-b2ef-5fcc2a68de0b)
+
+
 
 
 
