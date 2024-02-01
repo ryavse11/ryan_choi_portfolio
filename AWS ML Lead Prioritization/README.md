@@ -38,7 +38,8 @@ I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our 
 **Data overview:**
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/aa480c11-a424-47f9-b2f7-268d503ba895)
-![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/ee8fc89b-acd4-4046-bcb3-6403a051d2b0)
+![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/b5f79c41-182a-4811-a314-a345daa72764)
+
 
 
 
