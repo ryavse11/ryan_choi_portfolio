@@ -16,11 +16,6 @@ I trained the ML model on <a href="https://github.com/ryavse11/ryan_choi_portfol
 width="750" height="450"/>
 
 
-
-
-<h2 align="left">Skills </h2>
-SQL, A/B Testing, Data Cleaning, Data Analysis, Descriptive Statistics, Hypothesis Testing, Data Visualization
-
 <h2 align="left">Business Impact </h2>
 
 1.	Improved the MQL quality (measured by Sale Qualified Opportunities (SQO) conversion rate) shared between marketing and sales organization, by enabling transparent scoring logic and filtering invalid/missing information, further reducing the volume of disqualified MQLs and withdrawn MQLs.
@@ -49,7 +44,8 @@ I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our 
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/aa480c11-a424-47f9-b2f7-268d503ba895)
 
-
+<h2 align="left">Skills </h2>
+**SQL, A/B Testing, Data Cleaning, Data Analysis, Descriptive Statistics, Hypothesis Testing, Data Visualization**
 
 
 
