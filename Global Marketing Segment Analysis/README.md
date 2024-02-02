@@ -1,7 +1,8 @@
-<h2 align="left">1. AWS Marketing Segment Analysis
-  
-<h5>
+<!-- Title -->
+<h1 align="left">Global Marketing Segment Analysis </h1>
 
+
+<h5>
 •	Dashboard Link (Amazon Internal Link): https://mtableau.aka.amazon.com/#/views/2022GlobalMRCSegmentDashboard/2022FMContributionbySegment?:iid=1
 
 •	Intended Audience: MRC(Marketing Response Center) managers, marketing reps, segment leaders, and campaign managers.  
