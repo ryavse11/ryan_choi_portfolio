@@ -46,11 +46,11 @@ I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our 
 
 <h2 align="left">Skills </h2>
 - Descriptive Statistics <br>
-- Hypothesis Testing
-- Data Visualization
-- Data Cleaning
-- Data Analysis
-- SQL(Redshift)/ETL(DataNet)
+- Hypothesis Testing  <br>
+- Data Visualization <br>
+- Data Cleaning <br>
+- Data Analysis <br>
+- SQL(Redshift)/ETL(DataNet) <br>
 
 
 
