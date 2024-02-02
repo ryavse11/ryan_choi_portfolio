@@ -45,8 +45,6 @@ I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our 
 <image src="https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/8872cec4-631b-468c-8942-acf032793c4b" 
 width="550" height="400"/>
 
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/8872cec4-631b-468c-8942-acf032793c4b)
-
 
 <h2 align="left">Skills </h2>
 - <b>Descriptive Statistics <br>
