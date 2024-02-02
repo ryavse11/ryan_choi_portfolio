@@ -34,7 +34,7 @@ SQL, A/B Testing, Data Cleaning, Data Analysis, Descriptive Statistics, Hypothes
 
 5.	Enable adjustment on MQL volumes based on seller’s capacity, and allow sellers to focus on specific buyer persona with specialized selling strategy.
 
-<h2 align="left">Data Sources </h2>
+<h2 align="left">Data Source & Sample Size </h2>
 
 I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our input data, and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO) performance. This model was used to build the CS AMER, CS EMEA and PS AMER models that are currently in production. The following sub sections describe the characteristics of our data.
 
