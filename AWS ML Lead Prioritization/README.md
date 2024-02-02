@@ -13,7 +13,7 @@ I trained the ML model on <a href="https://github.com/ryavse11/ryan_choi_portfol
 <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">ML Traning Dataset SQL</a>
 
 <image src="https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/13c062c9-c2d5-461a-bdb4-bbd86deaf89a" 
-width="700" height="400"/>
+width="750" height="450"/>
 
 
 
