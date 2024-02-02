@@ -1,10 +1,16 @@
 <!-- Title -->
-<h1 align="left">Marketing Segment Analysis </h1>
+<h1 align="left">Global Marketing Segment Analysis </h1>
 
 
 <h2 align="left">Summary </h2>
 
-All leads are not equal in terms of quality and priority. Traditionally, it has been based on the likelihood of an opportunity being created by the associated individual, where the likelihood is measured using a lead score. The project aims to measure the impact of applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into a sales qualified opportunity (SQO). To analyze the test results, <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/Model_Feature_Sets.md"> I designed and pulled different scoring model feature sets </a> to run multi-phased A/B tests and analyze the test results.
+The Global Marketing Segment Analysis was implemented with the intent of tracking the following metrics. 
+1. Global marketing teams' contribution to field marketing
+2. Month-over-month performance for each segment
+3. AWS marketing region performance vs. monthly/annual goals
+4. sub-segment and sub-region drill-down results
+
+The dashboard is viewed by all segment leadership, global MRC managers, and marketing reps on a daily basis to track MRC teams' contributions to regional field marketing at a segment/sub-segment level. This Tableau dashboard pulls the field marketing data from the AWS Javis database cluster., <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/Model_Feature_Sets.md"> I designed and pulled different scoring model feature sets </a> to run multi-phased A/B tests and analyze the test results.
 
 <h2 align="left">Implementation </h2>
 
