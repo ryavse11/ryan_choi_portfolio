@@ -24,9 +24,6 @@ I built and delivered the Global Segment Analysis dashboard using Tableau and mu
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/02c7ed85-834d-49c9-92f0-4cf1a33b6372)
 
-<image src="https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/13c062c9-c2d5-461a-bdb4-bbd86deaf89a" 
-width="750" height="450"/>
-
 
 <h2 align="left">Business Impact </h2>
 
