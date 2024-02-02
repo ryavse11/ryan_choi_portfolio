@@ -18,9 +18,11 @@ The segment analysis results and the dashboard are viewed by all segment leaders
 
 <h2 align="left">Implementation </h2>
 
-I trained the ML model on <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">the CS(Commercial Sector) ASEAN data set </a> that I pulled from the Jarvis database cluster in AWS. Starting with around 73k MQLs having ‘completed followed up’, I split them into 2 data sets - training and test - based on a date split. The model then trains on the training set before being applied on the test set. The outcome of the latter step produces a numeric value which we call the ML-score. This ML-score is used to rank MQLs from high to low priority. For example, if MQL A has an ML-score of 0.7, and MQL B has an ML-score of 0.4, MQL A will be prioritized over MQL B.
+I began the project with looking into the global marketing team’s data infrastructure and explored the field marketing datasets in Amazon FMBI cluster. I applied a broad range of data exploration approaches as they relate to field marketing and segment analysis. I created ETL jobs to simplify the data pulling processes to aggregate the segment and sub-segment datasets. You chose Tableau to analyze and visualize the data. I also used statistical methods (regression) to difficult business problems and understand these methods’ assumptions and limitations. You delivered the BI report and the dashboard with the documentation and enablement sessions for the segment leaders to help the get familiar with the dashboard and filters in it. 
 
-<a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">ML Traning Dataset SQL</a>
+I built and delivered the Global Segment Analysis dashboard using Tableau and multiple datasources that I built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.
+
+
 
 <image src="https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/13c062c9-c2d5-461a-bdb4-bbd86deaf89a" 
 width="750" height="450"/>
