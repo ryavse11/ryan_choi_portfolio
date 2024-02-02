@@ -33,16 +33,6 @@ The Global Marketing Segment Anlysis provided the segment leaders and campaign m
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/a741b21f-0f4d-4bb4-b0ce-ecb592f746df)
 
 
-
-3.	Provide complete history of lead engagement with AWS, allowing sellers to have insightful conversations.
-4.	The overall MQL-SQO conversion metrics were improved and grade buckets A and B of the ML based model are able to capture more leads that experience MQL-SQO conversions than the equivalent grade buckets of traditional rule based scoring. The grade buckets below are the percentile rank bins of “ML based model” scores, and traditional “rule based model” scores. Grade A is the top 10% of each score type, whilst Grade B is the next 20%, Grade C is the next 30%, Grade D is the next 30% and Grade E is the final 10%. Moving down these grade buckets, the ML based and Rule based model scores each reflect a decline in the actual count of MQL-SQO conversions. This trait tells us that both scoring methods can prioritize MQLs to a good extent.
-
-
-      ![image](https://github.com/ryavse11/ryan_choi_portfolio_0129/assets/151677676/e9d19e07-334c-457b-ac62-f602b6dcc455)
-
-
-5.	Enable adjustment on MQL volumes based on seller’s capacity, and allow sellers to focus on specific buyer persona with specialized selling strategy.
-
 <h2 align="left">Data Source </h2>
 
 I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our input data, and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO) performance. I used the data by building the commercial sector (CS) AMER, CS EMEA and public sector(PS) AMER models in production. The following sub sections describe the characteristics of the data.
