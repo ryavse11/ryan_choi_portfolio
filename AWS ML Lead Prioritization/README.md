@@ -34,9 +34,9 @@ width="550" height="450"/>
 
 5.	Enable adjustment on MQL volumes based on seller’s capacity, and allow sellers to focus on specific buyer persona with specialized selling strategy.
 
-<h2 align="left">Data Source & Sample Size </h2>
+<h2 align="left">Data Source </h2>
 
-I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our input data, and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO) performance. This model was used to build the CS AMER, CS EMEA and PS AMER models that are currently in production. The following sub sections describe the characteristics of our data.
+I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our input data, and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO) performance. I used the data by building the commercial sector (CS) AMER, CS EMEA and public sector(PS) AMER models in production. The following sub sections describe the characteristics of the data.
 
 **Data query criteria:** biz_unit = ‘CS’, area = ‘ASEAN’ , and only “Completed Follow-Up” MQLs are included.
 
