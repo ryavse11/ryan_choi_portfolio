@@ -10,7 +10,11 @@ The Global Marketing Segment Analysis was implemented with the intent of trackin
 3. AWS marketing region performance vs. monthly/annual goals
 4. sub-segment and sub-region drill-down results
 
-The segment analysis results and the dashboard are viewed by all segment leadership, global marketing managers, and marketing reps in AWS marketing team to track each team's KPI attainment and regional field marketing performance at a segment/sub-segment level. I built and delivered the Global Segment Analysis dashboard using Tableau and multiple datasources that I built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.<a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/Model_Feature_Sets.md"> 
+The segment analysis results and the dashboard are viewed by all segment leadership, global marketing managers, and marketing reps in AWS marketing team to track each team's KPI attainment and regional field marketing performance at a segment/sub-segment level. I built and delivered the Global Segment Analysis dashboard using Tableau and multiple datasources that I built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.
+
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/02c7ed85-834d-49c9-92f0-4cf1a33b6372)
+
+
 
 <h2 align="left">Implementation </h2>
 
