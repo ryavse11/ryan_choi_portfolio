@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="left">AWS ML Lead Prioritization </h1>
+<h1 align="left">Marketing Segment Analysis </h1>
 
 
 <h2 align="left">Summary </h2>
