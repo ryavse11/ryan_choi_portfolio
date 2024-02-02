@@ -4,11 +4,14 @@
 
 <h2 align="left">Summary </h2>
 
-All leads are not equal in terms of quality and priority. Traditionally, it has been based on the likelihood of an opportunity being created by the associated individual, where the likelihood is measured using a lead score. The project aims to measure the impact of applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into a sales qualified opportunity (SQO). To analyze the results, <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/Model_Feature_Sets.md">five different scoring model feature sets </a> were used.
+All leads are not equal in terms of quality and priority. Traditionally, it has been based on the likelihood of an opportunity being created by the associated individual, where the likelihood is measured using a lead score. The project aims to measure the impact of applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into a sales qualified opportunity (SQO). To analyze the test results, <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/Model_Feature_Sets.md"> I designed and pulled different scoring model feature sets </a>.
 
 <h2 align="left">Execution </h2>
 
 I trained the ML model on <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">the CS(Commercial Sector) ASEAN data set </a> that I pulled from the Jarvis database cluster in AWS. Starting with around 73k MQLs having ‘completed followed up’, I split them into 2 data sets - training and test - based on a date split. The model then trains on the training set before being applied on the test set. The outcome of the latter step produces a numeric value which we call the ML-score. This ML-score is used to rank MQLs from high to low priority. For example, if MQL A has an ML-score of 0.7, and MQL B has an ML-score of 0.4, MQL A will be prioritized over MQL B.
+
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/13c062c9-c2d5-461a-bdb4-bbd86deaf89a)
+
 
 <h2 align="left">Skills </h2>
 SQL, A/B Testing, Data Cleaning, Data Analysis, Descriptive Statistics, Hypothesis Testing, Data Visualization
