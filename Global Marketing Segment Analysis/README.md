@@ -20,9 +20,7 @@ The segment analysis results and the dashboard are viewed by all segment leaders
 
 I began the project with looking into the global marketing team’s data infrastructure and explored the field marketing datasets in Amazon FMBI cluster. I applied a broad range of data exploration approaches as they relate to field marketing and segment analysis. I created ETL jobs to simplify the data pulling processes to aggregate the segment and sub-segment datasets. You chose Tableau to analyze and visualize the data. I also used statistical methods (regression) to difficult business problems and understand these methods’ assumptions and limitations. You delivered the BI report and the dashboard with the documentation and enablement sessions for the segment leaders to help the get familiar with the dashboard and filters in it. 
 
-I built and delivered the Global Segment Analysis dashboard using Tableau and multiple datasources that I built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.
 
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/02c7ed85-834d-49c9-92f0-4cf1a33b6372)
 
 
 <h2 align="left">Business Impact </h2>
@@ -34,15 +32,9 @@ The Global Marketing Segment Anlysis provided the segment leaders and campaign m
 
 <h2 align="left">Data Source </h2>
 
-I trained an ML model on ASEAN’s Commercial Sales (CS) lead population as our input data, and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO) performance. I used the data by building the commercial sector (CS) AMER, CS EMEA and public sector(PS) AMER models in production. The following sub sections describe the characteristics of the data.
+I built and delivered the Global Segment Analysis dashboard using Tableau and multiple datasources that I built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.
 
-**Data query criteria:** biz_unit = ‘CS’, area = ‘ASEAN’ , and only “Completed Follow-Up” MQLs are included.
-
-**Data overview:**
-
-<image src="https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/8872cec4-631b-468c-8942-acf032793c4b" 
-width="550" height="400"/>
-
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/02c7ed85-834d-49c9-92f0-4cf1a33b6372)
 
 <h2 align="left">Skills </h2>
 - <b>Descriptive Statistics <br>
