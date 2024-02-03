@@ -35,6 +35,7 @@ The Global Marketing Segment Anlysis provided the segment leaders and campaign m
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/cd474df5-b9a8-4168-9446-02c1abd0ba3c)
 
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/c5fea10e-6bdf-4e77-b12c-9d20e5157535)
 
 
 <h2 align="left">Data Source </h2>
