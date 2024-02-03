@@ -25,6 +25,9 @@ I started the project with communicating with the internal customers, who were g
 
 While building the datasource and the Tableau worksheets, reports, and dashboard, I kept looking into the global marketing team’s data infrastructure and explored the field marketing datasets in Amazon FMBI cluster to customize the datasource and improve the datasource loading speed. I applied a broad range of data exploration and data source build approaches (including data source mode into extract) as the project relates to field marketing and segment analysis that would used to non-tech managers every day. To that end, I also optimized ETL jobs to improve the data loading performance when aggregating daily incremental data update and sub-segment dataset performance. To visualize the data, I used Tableau Creator also appied the embedded statistical analysis methods (e.g.regression) to provide the stakeholder with in-depth analytical report and help them understand detailed each tier 1 campaign's business impact on each segment. I delivered the global marketing segment dashboard, documentations, and three enablement sessions for the segment leaders as project  deliverables. 
 
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/674e6036-764e-4389-9138-e92b04754fca)
+
+
 
 <h2 align="left">Business Impact </h2>
 
