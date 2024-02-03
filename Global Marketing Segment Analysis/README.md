@@ -33,7 +33,7 @@ While building the datasource and the Tableau worksheets, reports, and dashboard
 
 The Global Marketing Segment Anlysis provided the segment leaders and campaign managers with the improved visibilities on sub-segment performances. In AMER, after several months of zero Marketing Qualified Leads(MQLs) in Q4 2022, the team generated their first ENT Greenfiled MQLs and SQLs in February 2023 from the F200 Priority campaign resulting SQL pipeline of $108k. In LATAM SMB, the team was able to be more efficient in its email outreach and achieve 197.0% attainment. AMER startup segment worked achieved MQL YoY increase of 456%. Given the recent adjustment in segment capacity, the team look forward to the growth and impact working high quality leads in the corresponding segments using the data from the segment analysis. 
 
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/8bf706ca-fa67-42f4-ab16-56978043bf02)
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/cd474df5-b9a8-4168-9446-02c1abd0ba3c)
 
 
 
