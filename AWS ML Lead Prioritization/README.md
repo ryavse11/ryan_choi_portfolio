@@ -4,9 +4,9 @@
 
 <h2 align="left">Summary </h2>
 
-All leads are not equal in terms of quality and priority. The lead prioritization in ASWS was traditionally based on the likelihood of an opportunity created by the associated individual, where the possibility is measured using a lead score. The project aims to measure the impact after applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into sales qualified opportunities (SQOs). For the project, Chungwoo analyzed the test results, designed and pulled scoring model feature sets, and led multi-phased A/B tests.
+All leads are not equal in terms of quality and priority. The lead prioritization in ASWS was traditionally based on the likelihood of an opportunity created by the associated individual, where the possibility is measured using a lead score. The project aims to measure the impact after applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into sales qualified opportunities (SQOs). For the project, Chungwoo designed and pulled scoring model feature sets, trained the ML model, led multi-phased A/B tests, and analyzed the test results.
 
-<a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/Model_Feature_Sets.md">
+<a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/Model_Feature_Sets.md">ML Scoring Model Feature Set SQL</a>
 
 <h2 align="left">Implementation </h2>
 
