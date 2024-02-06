@@ -56,8 +56,8 @@ width="550" height="400"/>
 - Hypothesis Testing  <br>
 - Data Visualization <br>
 - Data Cleaning <br>
-- Data Analysis <br>
-- SQL(Redshift)/ETL(DataNet) <br>
+- Query Writing <br>
+- ETL(Amazon DataNet) <br>
 
 
 
