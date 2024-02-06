@@ -9,15 +9,13 @@ Chungwoo (Ryan) led the Global Marketing Segment Analysis project to enable the 
 
 <h2 align="left">Implementation </h2>
 
-To implement the project, Chungwoo (Ryan) prioritized communicating with stakeholders by leading weekly sprint meetings with global segment leaders and commercial/public sector(CS/PS) managers, marketing managers, and marketing ops teams. He also worked with all internal partners to refine and rebuild the data source to customize the field marketing(FM) dataset to analyze the segment goals and KPI attainment. He had regular retrospective meetings with the stakeholders and partners to provide updates on the project's progress and receive further requests. While building the data source and the Tableau dashboard, he worked closely with data engineers, data scientists, and other BIEs to deliver the Global Marketing Segment Dashboard. Chungwoo believes communicating with all stakeholders and internal partners was the key to the success of the AWS Segment Analysis project. 
-
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/7adc4b13-4444-4b46-a803-bce826ee20a6)
-
-
-
 While building the datasource and the Tableau worksheets, reports, and dashboard, I kept looking into the global marketing team’s data infrastructure and explored the field marketing datasets in Amazon FMBI cluster to customize the datasource and improve the datasource loading speed. I applied a broad range of data exploration and data source build approaches (including data source mode into extract) as the project relates to field marketing and segment analysis that would used to non-tech managers every day. To that end, I also optimized ETL jobs to improve the data loading performance when aggregating daily incremental data update and sub-segment dataset performance. To visualize the data, I used Tableau Creator also appied the embedded statistical analysis methods (e.g.regression) to provide the stakeholder with in-depth analytical report and help them understand detailed each tier 1 campaign's business impact on each segment. I delivered the global marketing segment dashboard, documentations, and three enablement sessions for the segment leaders as project  deliverables. 
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/674e6036-764e-4389-9138-e92b04754fca)
+
+To implement the project, Chungwoo (Ryan) prioritized communicating with stakeholders by leading weekly sprint meetings with global segment leaders and commercial/public sector(CS/PS) managers, marketing managers, and marketing ops teams. He also worked with all internal partners to refine and rebuild the data source to customize the field marketing(FM) dataset to analyze the segment goals and KPI attainment. He had regular retrospective meetings with the stakeholders and partners to provide updates on the project's progress and receive further requests. While building the data source and the Tableau dashboard, he worked closely with data engineers, data scientists, and other BIEs to deliver the Global Marketing Segment Dashboard. Chungwoo believes communicating with all stakeholders and internal partners was the key to the success of the AWS Segment Analysis project. 
+
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/7adc4b13-4444-4b46-a803-bce826ee20a6)
 
 
 
