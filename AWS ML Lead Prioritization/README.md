@@ -51,6 +51,7 @@ width="550" height="400"/>
 
 
 <h2 align="left">Skills </h2>
+
 - Descriptive Statistics <br>
 - Hypothesis Testing  <br>
 - Data Visualization <br>
