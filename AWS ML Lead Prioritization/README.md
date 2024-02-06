@@ -54,10 +54,10 @@ width="550" height="400"/>
 
 - Descriptive Statistics <br>
 - Hypothesis Testing  <br>
-- Data Visualization <br>
+- Data Visualization - Tableau and QuickSight <br>
 - Data Cleaning <br>
 - Query Writing <br>
-- ETL(Amazon DataNet) <br>
+- ETL - Amazon DataNet <br>
 
 
 
