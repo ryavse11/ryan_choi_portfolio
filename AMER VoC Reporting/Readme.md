@@ -11,7 +11,7 @@ AWS AMER Marketing VoC Reporting aims to gather customer sentiment and aggregate
 
 <h2 align="left">Implementation </h2>
 
-To collect valid customer feedback for VoC reporting, Chungwoo(Ryan) created the AMER Marketing work process map (see below) and built multiple Qualtrics survey questionnaires to help AWS marketing reps streamline the data feed process. 
+To collect valid customer feedback for VoC reporting, Chungwoo(Ryan) created the AMER Marketing work process map (see below) and built multiple Qualtrics survey questionnaires to help AWS marketing reps streamline the data feed process. The streamlined process map that Chungwoo(Ryan) created is used by all marketing reps when they converse with the customers and collect customer sentiment. The work process map is currently incorporated in the AWS AMER marketing Wiki page for reference. 
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/fc50e593-1019-4c86-8d4f-a8650ceda0c8)
 
