@@ -11,11 +11,15 @@ AWS AMER Marketing VoC Reporting aims to gather customer sentiment and aggregate
 
 <h2 align="left">Implementation </h2>
 
-Chungwoo(Ryan) built a separate data source for segment analysis and optimized ETL jobs in AWS Datanet to improve the data loading performance for daily data aggregation (incremental data). He applied a broad range of data exploration, tested multiple data source modes, and built all Tableau worksheets and four dashboards for the project. He applied statistical analysis methods (regression) to provide the stakeholders with in-depth analytical reports to provide insights into the AWS tier 1 campaign's business impact on each global segment.
+To collect valid customer feedback for VoC reporting, Chungwoo(Ryan) created the AMER Marketing work process map (see below) and built multiple Qualtrics survey questionnaires to help AWS marketing reps streamline the data feed process. 
+
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/fc50e593-1019-4c86-8d4f-a8650ceda0c8)
+
+Chungwoo connected the AMER VoC reporting with the Qualtrics survey tool. The automated VoC report is used by all AMER marketing managers, campaign owners, campaign managers, MRC managers, reps, and AWS FM (field marketing) stakeholders. Ryan supported the AWS marketing stakeholders by customizing the VoC report to track customer sentiment on their AWS Campaigns and Events. Qualtrics data is extracted into the AWS FMBI data repository and combined with SFDC data daily using Campaign Member ID in SFDC as a primary key to pull the corresponding collected customer sentiment on the report. 
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/674e6036-764e-4389-9138-e92b04754fca)
 
-To implement the project, Chungwoo(Ryan) prioritized communicating with stakeholders by leading weekly sprint meetings with global segment leaders and commercial/public sector(CS/PS) managers, marketing managers, and marketing ops teams. He also worked with all internal partners to refine and rebuild the data source to customize the field marketing(FM) dataset to analyze the segment goals and KPI attainment. He had regular retrospective meetings with the stakeholders and partners to provide updates on the project's progress and receive further requests. While building the data source and the Tableau dashboard, he worked closely with data engineers, data scientists, and other BIEs to deliver the Global Marketing Segment Dashboard. Chungwoo(Ryan) believes communicating with all stakeholders and internal partners was the key to the success of the AWS Segment Analysis project. 
+
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/7adc4b13-4444-4b46-a803-bce826ee20a6)
 
