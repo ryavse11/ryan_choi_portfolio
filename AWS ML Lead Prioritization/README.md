@@ -57,7 +57,7 @@ width="550" height="400"/>
 - Hypothesis Testing  <br>
 - Data Modeling <br>
 - Data Cleaning <br>
-- Query Writing <br>
+- SQL Query Writing <br>
 - ETL - Amazon DataNet <br>
 - Data Visualization - Tableau and QuickSight <br>
 - Collaboration and Communication
