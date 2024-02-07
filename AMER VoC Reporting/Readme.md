@@ -1,11 +1,10 @@
 <!-- Title -->
-<h1 align="left">Global Marketing Segment Analysis </h1>
+<h1 align="left">AMER Marketing VoC Reporting </h1>
 
 
 <h2 align="left">Summary </h2>
 
-Chungwoo(Ryan) led the Global Marketing Segment Analysis project to enable the AWS global marketing teams to track key metrics, which includes teams' contribution to field marketing, month-over-month performance for each segment, regional performance vs. goals, and sub-segment drill-down results. He built and demonstrated the Global Segment Analysis dashboard for the global segment leadership, marketing managers, and campaign managers in the AWS marketing team to help them track each team's KPI attainment and regional field marketing performance at a segment/sub-segment level. 
-
+AWS AMER Marketing VoC Reporting aims to gather customer sentiment and aggregate the feedback into a Tableau dashboard that AWS AMER marketing stakeholders can see to understand each campaign's impact on customer behavior and propensity. Chungwoo led the project and built the AMER VoC reporting leveraging AWS Salesforce data, Tableau data source, survey flow, survey work process map, and the API provided by Qualtrics.  
 
 <h2 align="left">Implementation </h2>
 
