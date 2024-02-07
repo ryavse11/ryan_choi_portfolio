@@ -4,13 +4,13 @@
 
 <h2 align="left">Summary </h2>
 
-The marketing lead prioritization in AWS was traditionally based on the likelihood of an opportunity created by the associated individual, where the possibility is measured using lead scores. The project (Lorem) aims to measure the impact after applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into sales qualified opportunities (SQOs). For the project, Chungwoo (Ryan) designed and pulled scoring model feature sets, trained the ML model, led multi-phased A/B testings, and then analyzed the test results to determine if there is enough evidence in the sample data to draw conclusions on the ML-based lead prioritization model. 
+The marketing lead prioritization in AWS was traditionally based on the likelihood of an opportunity created by the associated individual, where the possibility is measured using lead scores. The project (Lorem) aims to measure the impact after applying a machine learning approach to predict marketing qualified leads(MQLs) that would convert into sales qualified opportunities (SQOs). For the project, Chungwoo(Ryan) designed and pulled scoring model feature sets, trained the ML model, led multi-phased A/B testings, and then analyzed the test results to determine if there is enough evidence in the sample data to draw conclusions on the ML-based lead prioritization model. 
 
 <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/Model_Feature_Sets.md">ML Scoring Model Feature Set SQL</a>
 
 <h2 align="left">Implementation </h2>
 
-Chungwoo (Ryan) mainly worked on training the ML model on <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">the CS(Commercial Sector) data set </a> that he pulled from the AWS Jarvis database cluster. Starting with around 73k MQLs having ‘completed followed up’, he split the sample into 2 data sets - training and test - based on a date split. The ML model trained on the data set before applying to the test set. The training outcome produces a numeric value, which is called the ML-score. Then, the ML-score was used to rank marketing qualified leads (MQLs) from high to low priority. For example, if MQL A has an ML-score of 0.7, and MQL B has an ML-score of 0.4, MQL A will be prioritized over MQL B.
+Chungwoo(Ryan) mainly worked on training the ML model on <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">the CS(Commercial Sector) data set </a> that he pulled from the AWS Jarvis database cluster. Starting with around 73k MQLs having ‘completed followed up’, he split the sample into 2 data sets - training and test - based on a date split. The ML model trained on the data set before applying to the test set. The training outcome produces a numeric value, which is called the ML-score. Then, the ML-score was used to rank marketing qualified leads (MQLs) from high to low priority. For example, if MQL A has an ML-score of 0.7, and MQL B has an ML-score of 0.4, MQL A will be prioritized over MQL B.
 
 <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">ML Traning Dataset SQL</a>
 
@@ -38,7 +38,7 @@ width="550" height="450"/>
 
 <h2 align="left">Data Source </h2>
 
-Chungwoo (Ryan) trained an ML model on ASEAN’s Commercial Sales (CS) lead population as input data and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO CR%) performance. He built the data set by pulling the commercial sector (CS) AMER and EMEA public sector(PS) AMER models in production. The following subsections describe the characteristics of the data.
+Chungwoo(Ryan) trained an ML model on ASEAN’s Commercial Sales (CS) lead population as input data and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO CR%) performance. He built the data set by pulling the commercial sector (CS) AMER and EMEA public sector(PS) AMER models in production. The following subsections describe the characteristics of the data.
 Data query criteria: biz_unit = ‘CS’, area = ‘ASEAN’ , and only “Completed Follow-Up” MQLs are included.
 Data overview:
 
