@@ -4,7 +4,10 @@
 
 <h2 align="left">Summary </h2>
 
-AWS AMER Marketing VoC Reporting aims to gather customer sentiment and aggregate the feedback into a Tableau dashboard that AWS AMER marketing stakeholders can see to understand each campaign's impact on customer behavior and propensity. Chungwoo led the project and built the AMER VoC reporting leveraging AWS Salesforce data, Tableau data source, survey flow, survey work process map, and the API provided by Qualtrics.  
+AWS AMER Marketing VoC Reporting aims to gather customer sentiment and aggregate the feedback into a Tableau dashboard that AWS AMER marketing stakeholders can see to understand each campaign's impact on customer behavior and propensity. Chungwoo(Ryan) led the project and built the AMER VoC reporting leveraging AWS Salesforce data, Tableau data source, survey flow, survey work process map, and the API provided by Qualtrics.  
+
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/038a606f-566c-48f2-bdd6-aebd1e64c4ca)
+
 
 <h2 align="left">Implementation </h2>
 
