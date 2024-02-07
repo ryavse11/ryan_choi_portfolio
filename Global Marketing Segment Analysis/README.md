@@ -35,7 +35,7 @@ Chungwoo(Ryan) built and delivered the Global Segment Analysis dashboard using T
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/02c7ed85-834d-49c9-92f0-4cf1a33b6372)
 
 <h2 align="left">Skills </h2>
-- <Descriptive Statistics <br>
+- Descriptive Statistics <br>
 - Hypothesis Testing  <br>
 - Data Visualization <br>
 - Data Cleaning <br>
