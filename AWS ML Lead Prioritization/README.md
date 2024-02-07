@@ -53,11 +53,14 @@ width="550" height="400"/>
 <h2 align="left">Skills Used </h2>
 
 - Descriptive Statistics <br>
+- Machine Learning <br>
 - Hypothesis Testing  <br>
-- Data Visualization - Tableau and QuickSight <br>
+- Data Modeling <br>
 - Data Cleaning <br>
 - Query Writing <br>
 - ETL - Amazon DataNet <br>
+- Communication
+- Data Visualization - Tableau and QuickSight <br>
 
 
 
