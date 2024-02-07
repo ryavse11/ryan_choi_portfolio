@@ -59,8 +59,8 @@ width="550" height="400"/>
 - Data Cleaning <br>
 - Query Writing <br>
 - ETL - Amazon DataNet <br>
-- Communication
 - Data Visualization - Tableau and QuickSight <br>
+- Collaboration and Communication
 
 
 
