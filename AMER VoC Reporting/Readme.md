@@ -41,5 +41,6 @@ Chungwoo(Ryan) built and delivered the Global Segment Analysis dashboard using T
 - Data Modeling  <br>
 - Data Cleaning <br>
 - Data Visualizatio - Tableau <br>
-- SQL(Redshift)/ETL(DataNet)<br>
+- SQL <br>
+- ETL(Amazon DataNet)<br>
 
