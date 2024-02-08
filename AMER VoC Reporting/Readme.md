@@ -15,7 +15,7 @@ To collect valid customer feedback for VoC reporting, Chungwoo(Ryan) created the
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/fc50e593-1019-4c86-8d4f-a8650ceda0c8)
 
-Chungwoo connected the Tableau AMER VoC dashboard with the Qualtrics data repository. He automated data feed from Qualtrics for the VoC reporting designed for all AMER marketing managers, campaign owners, campaign managers, MRC managers, reps, and AWS FM (field marketing) stakeholders. After implementation, Ryan supported the AWS marketing stakeholders by providing Qualtrics survey and VoC report customization to help stakeholders track customer sentiment with different AWS campaigns and events. Qualtrics data is extracted into the AWS FMBI data repository and then combined with SFDC data daily utilizing Campaign Member ID in AWS SFDC as a primary key to pull the corresponding customer data for the VoC reporting. 
+Chungwoo(Ryan) connected the Tableau AMER VoC dashboard with the Qualtrics data repository. He automated data feed from Qualtrics for the VoC reporting designed for all AMER marketing managers, campaign owners, campaign managers, MRC managers, reps, and AWS FM (field marketing) stakeholders. After implementation, he also supported the AWS marketing stakeholders by providing Qualtrics survey and VoC report customization to help stakeholders track customer sentiment with different AWS campaigns and events. Qualtrics data is extracted into the AWS FMBI data repository and then combined with SFDC data daily utilizing Campaign Member ID in AWS SFDC as a primary key to pull the corresponding customer data for the VoC reporting. 
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/9742c9f2-f366-4c03-87fc-1fbde3d30adb)
 
