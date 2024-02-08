@@ -40,7 +40,8 @@ Chungwoo(Ryan) built and delivered the Global Segment Analysis dashboard using T
 - Data Integration using Qaultrics APIs
 - Data Modeling  <br>
 - Data Cleaning <br>
-- Data Visualizatio - Tableau <br>
+- Data Visualization - Tableau <br>
 - SQL <br>
 - ETL(Amazon DataNet)<br>
+- Collaboration and Communication
 
