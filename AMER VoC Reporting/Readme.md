@@ -17,12 +17,7 @@ To collect valid customer feedback for VoC reporting, Chungwoo(Ryan) created the
 
 Chungwoo connected the AMER VoC reporting with the Qualtrics survey tool. The automated VoC report is used by all AMER marketing managers, campaign owners, campaign managers, MRC managers, reps, and AWS FM (field marketing) stakeholders. Ryan supported the AWS marketing stakeholders by customizing the VoC report to track customer sentiment on their AWS Campaigns and Events. Qualtrics data is extracted into the AWS FMBI data repository and combined with SFDC data daily using Campaign Member ID in SFDC as a primary key to pull the corresponding collected customer sentiment on the report. 
 
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/674e6036-764e-4389-9138-e92b04754fca)
-
-
-
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/7adc4b13-4444-4b46-a803-bce826ee20a6)
-
+![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/9742c9f2-f366-4c03-87fc-1fbde3d30adb)
 
 
 <h2 align="left">Business Impact </h2>
