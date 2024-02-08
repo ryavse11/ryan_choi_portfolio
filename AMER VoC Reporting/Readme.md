@@ -22,9 +22,8 @@ Chungwoo(Ryan) connected the Tableau AMER VoC dashboard with the Qualtrics data 
 
 <h2 align="left">Business Impact </h2>
 
-The Global Marketing Segment analysis provided the segment leaders and campaign managers with complete visibility of region, sub-region, and sub-segment performances. In AMER, after three months of zero Marketing Qualified Leads(MQLs) in Q4 2022, the team generated their first ENT Greenfield MQLs and SQLs in February 2023 from the F200 Priority campaign, resulting in a SQL pipeline of $108k. In LATAM SMB, the team was more efficient in email outreach and achieved 197% attainment. AMER startup segment achieved an MQL YoY increase of 456%. Given the visibility of segment performance and recent segment capacity adjustment, the AWS segment teams look forward to the growth and impact of working with high-quality leads prioritized in the corresponding segments using the data from the segment analysis.
+The AMER Marketing VoC Report improved the quality of marketing qualified leads(MQLs) that originate from an AWS tier-1 Event or Acceleration Initiative. In Q1 2023, the conversion rate of marketing-qualified leads (MQLs) to sales-qualified leads (SQLs) in AMER increased to 56% from 43% conversion rate of automated MQLS. The resulting conversion rate generated +372 MQLs YoY, contributing $7.6M in the SQL pipeline. During this time, AMER marketing reps engage customers on a 1:1 basis following a campaign or in support of Acceleration Initiatives using Qualtrics survey and the streamlined AMER Marketing work process map above. 
 
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/cd474df5-b9a8-4168-9446-02c1abd0ba3c)
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/c5fea10e-6bdf-4e77-b12c-9d20e5157535)
 
