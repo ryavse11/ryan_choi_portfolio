@@ -26,7 +26,7 @@ The AMER Marketing VoC Report improved the quality of marketing qualified leads(
 
 <h2 align="left">Data Source </h2>
 
-Chungwoo(Ryan) built and delivered the Global Segment Analysis dashboard using Tableau with combined data sources that he built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.
+The AMER Marketing VoC analysis pulls data from Field Marketing Business Intelligence(FMBI) data sources in the AWS Redshift cluster. Chungwoo also created data sources using custom SQLs to pull the AWS Salesforce tables containing campaign members, lead flow sequential, and funnel stages. Qualtrics data is extracted from its data repository and is combined with SFDC data using Campaign Member IDs as the primary key to join customers' demographic data in SFDC and Qualtrics survey questionnaire response data. 
 
 
 <h2 align="left">Skills Used </h2>
