@@ -28,7 +28,6 @@ The AMER Marketing VoC Report improved the quality of marketing qualified leads(
 
 Chungwoo(Ryan) built and delivered the Global Segment Analysis dashboard using Tableau with combined data sources that he built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.
 
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/02c7ed85-834d-49c9-92f0-4cf1a33b6372)
 
 <h2 align="left">Skills Used </h2>
 - Process Diagram Modeling <br>
