@@ -26,7 +26,7 @@ The AMER Marketing VoC Report improved the quality of marketing qualified leads(
 
 <h2 align="left">Data Source </h2>
 
-The AMER Marketing VoC analysis pulls data from Field Marketing Business Intelligence(FMBI) data sources in the AWS Redshift cluster. Chungwoo also created data sources using custom SQLs to pull the AWS Salesforce tables containing campaign members, lead flow sequential, and funnel stages. Qualtrics data is extracted from its data repository and is combined with SFDC data using Campaign Member IDs as the primary key to join customers' demographic data in SFDC and Qualtrics survey questionnaire response data. 
+The AMER Marketing VoC analysis pulls the campaign member data from Field Marketing Business Intelligence(FMBI) data sources in the AWS Redshift cluster. Chungwoo created data sources using custom SQLs to pull the AWS Salesforce tables containing campaign members, lead flow sequential, and funnel stages. Qualtrics data is extracted from its data repository and is combined with SFDC data using Campaign Member IDs as the primary key to join customers' campaign engagement data stored in SFDC and Qualtrics survey questionnaire response data. 
 
 
 <h2 align="left">Skills Used </h2>
