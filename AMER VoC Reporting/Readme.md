@@ -22,11 +22,7 @@ Chungwoo(Ryan) connected the Tableau AMER VoC dashboard with the Qualtrics data 
 
 <h2 align="left">Business Impact </h2>
 
-The AMER Marketing VoC Report improved the quality of marketing qualified leads(MQLs) that originate from an AWS tier-1 Event or Acceleration Initiative. In Q1 2023, the conversion rate of marketing-qualified leads (MQLs) to sales-qualified leads (SQLs) in AMER increased to 56% from 43% conversion rate of automated MQLS. The resulting conversion rate generated +372 MQLs YoY, contributing $7.6M in the SQL pipeline. During this time, AMER marketing reps engage customers on a 1:1 basis following a campaign or in support of Acceleration Initiatives using Qualtrics survey and the streamlined AMER Marketing work process map above. 
-
-
-![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/c5fea10e-6bdf-4e77-b12c-9d20e5157535)
-
+The AMER Marketing VoC Report improved the quality of marketing qualified leads(MQLs) that originate from an AWS tier-1 Event or Acceleration Initiative. In Q1 2023, the conversion rate of marketing-qualified leads (MQLs) to sales-qualified leads (SQLs) in AMER increased to 56% from 43% conversion rate of automated MQLS. The resulting conversion rate generated +372 MQLs YoY, contributing $7.6M in the SQL pipeline. During this time, AMER marketing reps engage customers on a 1:1 basis following a campaign or in support of Acceleration Initiatives using Qualtrics survey and the streamlined AMER Marketing work process map above.
 
 <h2 align="left">Data Source </h2>
 
