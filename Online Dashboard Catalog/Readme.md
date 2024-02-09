@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="left">Online Dashboard Catalog </h1>
+<h1 align="left">Live Dashboard Catalog </h1>
 
 
 <h2 align="left">Summary </h2>
