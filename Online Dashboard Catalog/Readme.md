@@ -13,8 +13,7 @@ AWS AMER Marketing VoC Reporting aims to gather customer sentiment and aggregate
 
 To collect valid customer feedback for VoC reporting, Chungwoo(Ryan) created the AMER Marketing work process map (see below) and built multiple Qualtrics survey questionnaires to help AWS marketing reps streamline the data feed process. The streamlined process map that Chungwoo(Ryan) created is used by all marketing reps when they converse with the customers and collect customer sentiment. The work process map is currently incorporated in the AWS AMER marketing Wiki page for reference. 
 
-<img width="800" alt="Dashboard Catalog_02" src="https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/c73d4b82-46da-429c-a255-d1f7a6514d91">
-
+![Dashboard Catalog_02](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/c73d4b82-46da-429c-a255-d1f7a6514d91)
 
 Chungwoo(Ryan) connected the Tableau AMER VoC dashboard with the Qualtrics data repository. He automated data feed from Qualtrics for the VoC reporting designed for all AMER marketing managers, campaign owners, campaign managers, MRC managers, reps, and AWS FM (field marketing) stakeholders. After implementation, he also supported the AWS marketing stakeholders by providing Qualtrics survey and VoC report customization to help stakeholders track customer sentiment with different AWS campaigns and events. Qualtrics data is extracted into the AWS FMBI data repository and then combined with SFDC data daily utilizing Campaign Member ID in AWS SFDC as a primary key to pull the corresponding customer data for the VoC reporting. 
 
