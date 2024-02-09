@@ -4,7 +4,7 @@
 
 <h2 align="left">Summary </h2>
 
-AWS AMER Marketing VoC Reporting aims to gather customer sentiment and aggregate the feedback into a Tableau dashboard that AWS AMER marketing stakeholders can see to understand each campaign's impact on customer behavior and propensity. Chungwoo(Ryan) led the project and built the AMER VoC reporting leveraging AWS Salesforce data, Tableau data source, survey flow, survey work process map, and the API provided by Qualtrics.  
+Ryan created an online dashboard catalog to provide the AMER marketing stakeholders with an up-to-date list of dashboards/reports that Ryan created for the AWS marketing and sales stakeholders. With detailed information on Ryan’s analytics deliverables, the stakeholders can quickly navigate the list and find the report containing the needed data. The catalog shows the intended audience, metrics and insights from each report, data refreshing schedule, and last modified/updated history. The catalog also provides a preview feature where the stakeholders can quickly check the thumbnails and detailed report screen grabs of each report so they can quickly go through all the components without pulling the whole report. 
 
 ![Dashboard Catalog_01](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/adf7d711-6a2c-4e59-9eb1-769910de2dfd)
 
