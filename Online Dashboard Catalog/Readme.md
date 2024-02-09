@@ -9,7 +9,7 @@ Chungwoo created an online dashboard catalog to provide the AMER marketing stake
 ![Dashboard Catalog_01](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/adf7d711-6a2c-4e59-9eb1-769910de2dfd)
 
 
-<h2 align="left">The Extra Mile </h2>
+<h2 align="left">Business Impact </h2>
 
 Chungwoo has created in-depth reports, global scale dashboards, and multiple live data sources using custom SQLs to provide AWS marketing and sales stakeholders with a single source of truth that they use daily for various purposes. The online dashboard catalog is a self-service tool designed for global sales managers, marketing stakeholders, and AWS sales reps to search Tableau and SFDC reports and detailed data/numbers needed for different purposes. The dashboard catalog provides the up-to-date URLs of all BI/analytics reports with preview features, intended audience, metrics, data, and insights to help the teams navigate the catalog and readily pull the data out of a selected report. 
 
