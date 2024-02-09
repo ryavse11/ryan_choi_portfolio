@@ -3,7 +3,7 @@
   
 Welcome to my Data Analyst Portfolio!
 
-I am Chungwoo(Ryan) Choi. I am a data analyst with 15+ years of experience with large tech companies in data analysis, business intelligence, database administration, and data engineering areas. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
+My name is Chungwoo Choi. I am a data analyst with 15+ years of experience with large tech companies in data analysis, business intelligence, database administration, and data engineering areas. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
 
 In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links of the dashboards and reports I have created using various tools. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
 
