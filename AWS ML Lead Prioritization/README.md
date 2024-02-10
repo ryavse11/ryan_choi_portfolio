@@ -38,7 +38,7 @@ width="550" height="450"/>
 
 <h2 align="left">Data Source </h2>
 
-Chungwoo(Ryan) trained an ML model on ASEAN’s Commercial Sales (CS) lead population as input data and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO CR%) improvement by running multi-phased A/B tests. For sample datasets, he retrieved from the AWS Jarvis cluster to pull the commercial sector (CS) AMER and EMEA public sector(PS) AMER campaign member tables in production. The following subsections describe the characteristics of the data.
+Chungwoo(Ryan) trained an ML model on ASEAN’s Commercial Sales (CS) lead population as input data and measured its Marketing Qualified Lead (MQL) to Sales Qualified Opportunity (SQO) conversion (MQL-SQO CR%) improvement by running multi-phased A/B tests. For sample datasets, he retrieved from the AWS Jarvis cluster to pull the commercial sector (CS) AMER and EMEA public sector(PS) AMER campaign member tables in production. The following table describes the characteristics of the data.
 
 **Data query criteria:** biz_unit = ‘CS’, area = ‘ASEAN’ , and only “Completed Follow-Up” MQLs are included.
 
