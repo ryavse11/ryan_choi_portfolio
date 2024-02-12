@@ -3,12 +3,12 @@
   
 Welcome to my Data Analyst Portfolio!
 
-My name is Chungwoo(Ryan) Choi. I am a data analyst with 15+ years of experience with large tech companies in data analysis, business intelligence, database administration, and data engineering areas. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
+My name is Chungwoo(Ryan) Choi. I am a data analyst with 15+ years of experience in data analysis, business intelligence, database administration, and data engineering, working with large tech companies. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau. I have a solid understanding of data analytics skill sets such as statistics, data cleansing, data mining, data merging, dashboard building, and critical thinking.
 
-In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links of the dashboards and reports I have created using various tools. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
+In this portfolio, I have included various projects showcasing my data analytics skills. You will find links to the dashboards and reports I have created using various tools. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision-makers to understand the insights and take action.
 
-In addition to my technical skills, I also pride myself on my critical thinking and problem-solving abilities. I am able to approach data analysis with a strategic mindset and to identify key issues and opportunities in the data.
+In addition to my technical skills, I pride myself on my critical thinking and problem-solving abilities. I can approach data analysis with a strategic mindset and identify critical issues and opportunities in the data.
 
-I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you.
+I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio informative and engaging, and I welcome any opportunity to discuss my qualifications further with you.
 
-Thank you for your time, I look forward to hearing from you soon.
+I look forward to hearing from you soon. Thank you!
