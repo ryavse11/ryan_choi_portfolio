@@ -9,7 +9,7 @@ Chungwoo(Ryan) led the Global Marketing Segment Analysis project and enabled the
 
 <h2 align="left">Implementation </h2>
 
-Chungwoo(Ryan) built dedicated data sources for the segment analysis project and optimized related ETL jobs in AWS Datanet to improve the data efficiency and report loading performance for the daily data aggregation process. He applied a broad range of data exploration on field marketing data, tested multiple data extract modes, and built 30+ Tableau worksheets and four dashboards for the project. He applied statistical analysis methods (e.g., regression) to provide the stakeholders with in-depth analytical insights into the AWS tier 1 campaign's business impact on each global segment.
+Chungwoo(Ryan) built dedicated data sources for the segment analysis project and optimized related ETL jobs in AWS Datanet to improve the data efficiency and report loading performance for the daily data aggregation process. He applied a broad range of data exploration on field marketing data, tested multiple data extract modes, and built 30+ Tableau worksheets and four dashboards for the project. He applied statistical analysis methods (e.g. regression) to provide the stakeholders with in-depth analytical insights into the AWS tier 1 campaign's business impact on each global segment.
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/674e6036-764e-4389-9138-e92b04754fca)
 
