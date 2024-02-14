@@ -30,7 +30,7 @@ The Global Marketing Segment analysis provided the segment leaders and campaign 
 
 <h2 align="left">Data Source </h2>
 
-Chungwoo(Ryan) built and delivered the Global Segment Analysis dashboard using Tableau with combined data sources that he built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.
+Chungwoo(Ryan) built and delivered the Global Segment Analysis dashboard using Tableau with combined/restructured data sources that he built using Amazon Field Marketing Business Intelligence (FMBI) Redshift clusters.
 
 ![image](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/02c7ed85-834d-49c9-92f0-4cf1a33b6372)
 
