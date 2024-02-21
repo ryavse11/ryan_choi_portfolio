@@ -8,7 +8,7 @@ The marketing lead prioritization in AWS was traditionally based on the likeliho
 
 <h2 align="left">Implementation </h2>
 
-Chungwoo(Ryan) mainly worked on training the ML model on <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">the Commercial Sector(CS) data set </a> that he pulled from the AWS Jarvis database cluster. Starting with around 73k MQLs having ‘completed follow up’, he split the sample into two data sets - training and test - based on a date. The ML model trained on the data set before applying to the test set. The training outcome produces a numeric value, which is called the ML-score. Then, the ML-score was used to rank marketing qualified leads (MQLs) from high to low priority. For example, if MQL A has an ML-score of 0.7, and MQL B has an ML-score of 0.4, MQL A will be prioritized over MQL B.
+Chungwoo(Ryan) worked on training the ML model on Commercial Sector(CS) data set that he pulled from the AWS Jarvis database cluster. Starting with around 73k MQLs having ‘completed follow up’, he split the sample into two data sets - training and test - based on a date. The ML model trained on the data set before applying to the test set. The training outcome produces a numeric value, which is called the ML-score. Then, the ML-score was used to rank marketing qualified leads (MQLs) from high to low priority. For example, if MQL A has an ML-score of 0.7, and MQL B has an ML-score of 0.4, MQL A will be prioritized over MQL B.
 
 <a href="https://github.com/ryavse11/ryan_choi_portfolio_0129/blob/main/AWS%20ML%20Lead%20Prioritization/ML_traning_dataset_01.SQL">ML Traning Dataset SQL</a>
 
