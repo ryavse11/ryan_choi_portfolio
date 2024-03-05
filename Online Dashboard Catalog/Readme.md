@@ -17,6 +17,6 @@ The catalog has received a number of accolades in AWS; the stakeholders commente
 
 ![Dashboard Catalog_02](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/c73d4b82-46da-429c-a255-d1f7a6514d91)
 
-With his business intelligence engineering and DBA (database administrator) experience, Chungwoo has created all diferent types of in-depth BI reports, data pipelines, and data sources. Having collaborated with the data engineering team, sales stakeholders, and sales ops teams, he learned that data analysis deliverables should be easily understood and provide tangible, actionable insights so they can be practically used to build and update business strategy moving forward.  Throughout his tech career, Chungwoo has strived to deliver optimal satisfaction levels while working with stakeholders and delivering results; he is willing to go the extra mile and take the initiative to add more value to the business. 
+With his business intelligence engineering and DBA (database administrator) experience, Chungwoo has created all diferent types of in-depth BI reports, data pipelines, and data sources. Having collaborated with the data engineering team, sales stakeholders, and sales ops teams, he learned that data analysis deliverables should be easily understood and provide tangible, actionable insights so they can be practically used to build and update business strategy moving forward.  
 
 ![Ryan Choi AWS Tableau Profile](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/3178ffe0-b1ed-41e3-bcd4-13b0e912fb77)
