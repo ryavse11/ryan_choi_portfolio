@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="left">Self-servicing Tools and Data Sources </h1>
+<h1 align="left">Self-service Tools and Data Sources </h1>
 
 
 <h2 align="left">Summary </h2>
