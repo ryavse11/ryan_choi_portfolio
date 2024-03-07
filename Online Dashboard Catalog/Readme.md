@@ -4,7 +4,7 @@
 
 <h2 align="left">Summary </h2>
 
-Chungwoo created an online dashboard catalog to provide the AMER marketing stakeholders with an up-to-date list of dashboards/reports that he created for the AWS marketing and sales stakeholders. With detailed information on Chungwoo's analytics deliverables, stakeholders can quickly navigate the list and find the right report containing the needed data. The catalog shows each report's intended audience, metrics, insights, data refreshing schedule, and last modified/updated date. The catalog also provides a preview feature where stakeholders can check the thumbnail images and screen grabs of each report without pulling the whole report. The stakeholders can save time using the live dashboard catalog and quickly review the entire component in the reports listed before opening the full report.
+Chungwoo created an online dashboard catalog to provide the AMER marketing stakeholders with an up-to-date list of dashboards/reports that he created for the AWS marketing and sales stakeholders. With detailed information on Chungwoo's analytics deliverables, stakeholders can quickly navigate the list and find the right report containing the needed data. The catalog shows each report's intended audience, metrics, insights, data refreshing schedule, and last modified/updated date. The catalog also provides a preview feature where stakeholders can see the thumbnail images and screen grabs of each report without pulling the whole report. The stakeholders can save time using the live dashboard catalog and quickly review the entire component in the reports listed before opening the full report.
 
 ![Dashboard Catalog_01](https://github.com/ryavse11/ryan_choi_portfolio/assets/151677676/adf7d711-6a2c-4e59-9eb1-769910de2dfd)
 
