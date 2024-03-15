@@ -4,7 +4,7 @@
 
 <h2 align="left">Summary </h2>
 
-Chungwoo(Ryan) led the Global Marketing Segment Analysis project and provided the AWS global marketing teams with full visibility into track key metrics, which included teams' contribution to field marketing, month-over-month performance for each segment, regional performance vs. goals, and sub-segment drill-down results. He built the analytics and data strategy and presented the Global Segment Analysis dashboard for the global segment leadership, marketing managers, and campaign managers in the AWS marketing team to help them utilize each team's KPI attainment and regional field marketing performance at a segment/sub-segment level for Quarterly Business Reviews.
+Chungwoo(Ryan) led the Global Marketing Segment Analysis project and provided the AWS global marketing teams with full visibility into track key metrics, which included teams' contribution to field marketing, month-over-month performance for each segment, regional performance vs. goals, and sub-segment drill-down results. He built the analytics/data strategy and presented the Global Segment Analysis for the global segment leadership, marketing managers, and campaign managers in the AWS marketing team to help them utilize each team's KPI attainment and regional field marketing performance at a segment/sub-segment level for Quarterly Business Reviews.
 
 
 <h2 align="left">Implementation </h2>
