@@ -3,7 +3,7 @@
   
 Welcome to my <a href="https://ryavse11.github.io/ryan_choi_portfolio/">Data Analyst Portfolio!</a>
 
-I am a techincal program manager with 15+ years of experience in data analysis, business intelligence, data engineering, and project/program management. I love working with large-scale structured/unstructured data and have a solid understanding of data analytics skill sets such as engineering statistics, data cleansing, data mining, predictive analytics, and data visualization. 
+I am a techincal program manager and data analyst with 15+ years of experience in data analysis, business intelligence, data engineering, and project/program management. I love working with large-scale structured/unstructured data and have a solid understanding of data analytics skill sets such as engineering statistics, data cleansing, data mining, predictive analytics, and data visualization. 
 
 Throughout my tech career, I have firmly believed in the power of "doing one more" and I have been willing to go "the extra mile" to contribute to business by adding more value. I consider myself a customer/stakeholder-oriented team player aiming to generate high satisfaction levels by delivering optimal data-driven solutions. In this portfolio, I have included projects showcasing my data analytics skills. You will find links to the dashboards and reports I have created using various tools. 
 
